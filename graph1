@@ -1,0 +1,7 @@
+4 #vertices
+5 #edges
+0 1 1 #par exemple: de 0 à 1 avec weight 1
+1 3 5 #de 1 à 3 avec weight 5
+0 2 5
+1 2 3
+2 3 2
